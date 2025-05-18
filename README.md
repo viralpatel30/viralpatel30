@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" color="white"/>
+    <img src="https://tse4.mm.bing.net/th?id=OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL&pid=Api&P=0&h=180" height="40" alt="express logo" color="white"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
   <img width="12" />
